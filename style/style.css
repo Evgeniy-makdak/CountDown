@@ -2,4 +2,18 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #565151;
+}
+
+.timer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 50vh;
+    width: 500px;
+}
+
+.timer h1 {
+    color: chocolate;
 }
